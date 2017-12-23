@@ -1,2 +1,5 @@
 # ignore
 bin/
+.classpath
+.project
+.settings/
